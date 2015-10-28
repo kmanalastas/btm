@@ -1,0 +1,2 @@
+touch <filename> : adds to working dir
+git add <filename> : adds to staging area
